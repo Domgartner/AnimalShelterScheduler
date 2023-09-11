@@ -17,5 +17,3 @@
 
 
 ## April 10, 2023
-
-### Github Repo: https://github.com/AlexMclean42/380-PROJ-11.git
